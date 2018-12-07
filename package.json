@@ -1,0 +1,19 @@
+{
+  "name": "npmjs-test",
+  "version": "0.0.0",
+  "description": "this is a test package for own practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/just-fy/npm-test.git"
+  },
+  "author": "Faizulina Anastasiya <nastya.fai92@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/just-fy/npm-test/issues"
+  },
+  "homepage": "https://github.com/just-fy/npm-test#readme"
+}
