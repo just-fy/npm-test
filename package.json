@@ -1,6 +1,6 @@
 {
   "name": "npmjs-test",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "this is a test package for own practice",
   "main": "index.js",
   "scripts": {
